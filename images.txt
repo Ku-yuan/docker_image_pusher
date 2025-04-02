@@ -6,3 +6,4 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 nvcr.io/nvidia/deepstream:7.1-triton-multiarch
 ubuntu:22.04
+python:3.12
